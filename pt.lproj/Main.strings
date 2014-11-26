@@ -1,0 +1,165 @@
+
+/* Class = "IBUINavigationItem"; title = "Toilet review"; ObjectID = "008-Cy-hyx"; */
+"008-Cy-hyx.title" = "Toilet review";
+
+/* Class = "IBUIBarButtonItem"; title = "You"; ObjectID = "0S7-8d-jxJ"; */
+"0S7-8d-jxJ.title" = "You";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2vf-6v-dtc"; */
+"2vf-6v-dtc.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Latests reviews"; ObjectID = "3jq-Dg-fdN"; */
+"3jq-Dg-fdN.text" = "Latests reviews";
+
+/* Class = "IBUILabel"; text = "Toilet scores"; ObjectID = "3kE-1h-6Yt"; */
+"3kE-1h-6Yt.text" = "Toilet scores";
+
+/* Class = "IBUILabel"; text = "4"; ObjectID = "55G-eH-q7I"; */
+"55G-eH-q7I.text" = "4";
+
+/* Class = "IBUIButton"; normalTitle = "Log out"; ObjectID = "5VT-Ng-cko"; */
+"5VT-Ng-cko.normalTitle" = "Log out";
+
+/* Class = "IBUILabel"; text = "score"; ObjectID = "7LM-tX-mXN"; */
+"7LM-tX-mXN.text" = "score";
+
+/* Class = "IBUILabel"; text = "times"; ObjectID = "7l0-8f-vRS"; */
+"7l0-8f-vRS.text" = "times";
+
+/* Class = "IBUITextField"; placeholder = "Last name"; ObjectID = "A7J-fa-QJc"; */
+"A7J-fa-QJc.placeholder" = "Last name";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "AIz-so-vaC"; */
+"AIz-so-vaC.placeholder" = "Password";
+
+/* Class = "IBUINavigationItem"; title = "Adicionar Banheiro"; ObjectID = "Blv-Eu-ktL"; */
+"Blv-Eu-ktL.title" = "Adicionar Banheiro";
+
+/* Class = "IBUIButton"; normalTitle = "Salvar"; ObjectID = "CC0-Tg-606"; */
+"CC0-Tg-606.normalTitle" = "Salvar";
+
+/* Class = "IBUITextField"; placeholder = "Horário de funcionamento"; ObjectID = "DXw-VP-Ipi"; */
+"DXw-VP-Ipi.placeholder" = "Horário de funcionamento";
+
+/* Class = "IBUILabel"; text = "Acessibilidade?"; ObjectID = "EYb-cc-rHo"; */
+"EYb-cc-rHo.text" = "Acessibilidade?";
+
+/* Class = "IBUILabel"; text = "Features"; ObjectID = "HgN-7f-1Z0"; */
+"HgN-7f-1Z0.text" = "Features";
+
+/* Class = "IBUIButton"; normalTitle = "Add new toilet"; ObjectID = "JWC-9A-d1r"; */
+"JWC-9A-d1r.normalTitle" = "Add new toilet";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "K3H-C8-MjR"; */
+"K3H-C8-MjR.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "LhT-1W-jsK"; */
+"LhT-1W-jsK.text" = "Title";
+
+/* Class = "IBUILabel"; text = "comments"; ObjectID = "M3I-5h-cP8"; */
+"M3I-5h-cP8.text" = "comments";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "MNR-vo-OSF"; */
+"MNR-vo-OSF.normalTitle" = "Login";
+
+/* Class = "IBUILabel"; text = "Comments"; ObjectID = "Mxz-zp-WOg"; */
+"Mxz-zp-WOg.text" = "Comments";
+
+/* Class = "IBUINavigationItem"; title = "Toilet details"; ObjectID = "Pcy-oX-nJh"; */
+"Pcy-oX-nJh.title" = "Toilet details";
+
+/* Class = "IBUILabel"; text = "Review title"; ObjectID = "R7E-dc-LJ7"; */
+"R7E-dc-LJ7.text" = "Review title";
+
+/* Class = "IBUILabel"; text = " "; ObjectID = "RED-cf-kos"; */
+"RED-cf-kos.text" = " ";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "Tck-DH-qlD"; */
+"Tck-DH-qlD.placeholder" = "Username";
+
+/* Class = "IBUILabel"; text = "Pago?"; ObjectID = "WcK-0q-kje"; */
+"WcK-0q-kje.text" = "Pago?";
+
+/* Class = "IBUILabel"; text = " "; ObjectID = "XYC-Nz-UfF"; */
+"XYC-Nz-UfF.text" = " ";
+
+/* Class = "IBUILabel"; text = "Cleanliness"; ObjectID = "YUC-4g-ahr"; */
+"YUC-4g-ahr.text" = "Cleanliness";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "Z0h-lh-Z0c"; */
+"Z0h-lh-Z0c.placeholder" = "Username";
+
+/* Class = "IBUIButton"; normalTitle = "Add new user"; ObjectID = "ZHK-qZ-6JB"; */
+"ZHK-qZ-6JB.normalTitle" = "Add new user";
+
+/* Class = "IBUILabel"; text = "total visits"; ObjectID = "ZLE-Lk-uWo"; */
+"ZLE-Lk-uWo.text" = "total visits";
+
+/* Class = "IBUILabel"; text = "Primeiro andar"; ObjectID = "Zxt-in-YX3"; */
+"Zxt-in-YX3.text" = "Primeiro andar";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "bFK-Th-Fwq"; */
+"bFK-Th-Fwq.normalTitle" = "Send";
+
+/* Class = "IBUILabel"; text = "You've been here"; ObjectID = "ecM-RO-Iwn"; */
+"ecM-RO-Iwn.text" = "You've been here";
+
+/* Class = "IBUILabel"; text = "Visits: "; ObjectID = "fB8-ap-qGy"; */
+"fB8-ap-qGy.text" = "Visits: ";
+
+/* Class = "IBUILabel"; text = "Toilet review"; ObjectID = "fhc-86-wYv"; */
+"fhc-86-wYv.text" = "Toilet review";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "gkg-5V-iPC"; */
+"gkg-5V-iPC.normalTitle" = "Send";
+
+/* Class = "IBUILabel"; text = "Público?"; ObjectID = "gur-ad-wLT"; */
+"gur-ad-wLT.text" = "Público?";
+
+/* Class = "IBUINavigationItem"; title = "Add new user"; ObjectID = "inX-SP-mi8"; */
+"inX-SP-mi8.title" = "Add new user";
+
+/* Class = "IBUILabel"; text = "Reviews:"; ObjectID = "isy-Re-PhQ"; */
+"isy-Re-PhQ.text" = "Reviews:";
+
+/* Class = "IBUILabel"; text = "Infantil?"; ObjectID = "jrh-QE-F6b"; */
+"jrh-QE-F6b.text" = "Infantil?";
+
+/* Class = "IBUIButton"; normalTitle = "Review toilet"; ObjectID = "lkG-o4-Eee"; */
+"lkG-o4-Eee.normalTitle" = "Review toilet";
+
+/* Class = "IBUITabBarItem"; title = "User"; ObjectID = "m2V-YU-eGp"; */
+"m2V-YU-eGp.title" = "User";
+
+/* Class = "IBUINavigationItem"; title = "Your profile"; ObjectID = "nfJ-Fg-QLM"; */
+"nfJ-Fg-QLM.title" = "Your profile";
+
+/* Class = "IBUILabel"; text = "Infrastructure"; ObjectID = "oR2-to-gE9"; */
+"oR2-to-gE9.text" = "Infrastructure";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "p7c-Wj-jIE"; */
+"p7c-Wj-jIE.text" = "2";
+
+/* Class = "IBUINavigationItem"; title = "Choose toilet"; ObjectID = "rcc-WD-4IC"; */
+"rcc-WD-4IC.title" = "Choose toilet";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "sJy-qP-79g"; */
+"sJy-qP-79g.placeholder" = "Email";
+
+/* Class = "IBUINavigationItem"; title = "Login"; ObjectID = "stD-3B-ZtH"; */
+"stD-3B-ZtH.title" = "Login";
+
+/* Class = "IBUITextField"; placeholder = "Nome"; ObjectID = "uiS-8z-PeO"; */
+"uiS-8z-PeO.placeholder" = "Nome";
+
+/* Class = "IBUITextField"; placeholder = "First name"; ObjectID = "vlN-TG-ISj"; */
+"vlN-TG-ISj.placeholder" = "First name";
+
+/* Class = "IBUIButton"; normalTitle = "Check in"; ObjectID = "wd7-ws-jSQ"; */
+"wd7-ws-jSQ.normalTitle" = "Check in";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "zn4-NK-bgK"; */
+"zn4-NK-bgK.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Fraldário?"; ObjectID = "zo4-sz-7ig"; */
+"zo4-sz-7ig.text" = "Fraldário?";
